@@ -198,3 +198,12 @@ main section {
     font-weight: 700;
     margin: 20px;
 }
+
+footer{
+    background-color: #FFF8F3;
+    display: flex;
+    margin-top: 100px;
+    padding: 130px 200px;
+    
+
+}
